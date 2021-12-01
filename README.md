@@ -69,7 +69,7 @@ cp ./settings.conf.template ./settings.conf
 
 *Make required changes in settings.conf*
 
-**NOTE:** Example setting files for the bitcoin, dogecoin and exor networks are also provided. Copy or rename `settings.conf.bitcoin`, `settings.conf.dogecoin` or `settings.conf.exor` to `settings.conf` and test crawling any of these networks with working examples to better understand how to set up the config for your own network.
+**NOTE:** Example setting files for the bitcoin, dogecoin, mobilepaycoin and nesteggcoin networks are also provided. Copy or rename `settings.conf.bitcoin`, `settings.conf.dogecoin`, `settings.conf.mobilepaycoin` or `settings.conf.nesteggcoin` to `settings.conf` and test crawling any of these networks with working examples to better understand how to set up the config for your own network.
 
 ### Step 5 - Build from Source
 
